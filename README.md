@@ -1,1 +1,2 @@
-CAmp Setup for Bathurst 12 hour
+### Bathurst
+Camp Setup for Bathurst 12 hour
